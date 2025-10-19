@@ -12,11 +12,7 @@
 
 ## Check that Turtlesim is installed
    (ros2 pkg executables turtlesim)
-    **Expected output includes**
-- turtlesim draw_square
-- turtlesim mimic
-- turtlesim turtle_teleop_key
-- turtlesim turtlesim_node
+    
 
 ## Running Turtlesim
   **We need two terminals to run Turtlesim properly**
