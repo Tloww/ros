@@ -12,14 +12,14 @@
 
 ## Check that Turtlesim is installed
    (ros2 pkg executables turtlesim)
-- Expected output includes:
-  - turtlesim draw_square
- -  turtlesim mimic
-  - turtlesim turtle_teleop_key
-   - turtlesim turtlesim_node
+    **Expected output includes**
+- turtlesim draw_square
+- turtlesim mimic
+- turtlesim turtle_teleop_key
+- turtlesim turtlesim_node
 
 ## Running Turtlesim
-  We need two terminals to run Turtlesim properly:
+  **We need two terminals to run Turtlesim properly**
 
 - Terminal 1: Start the simulator
  (source /opt/ros/humble/setup.bash
@@ -39,6 +39,6 @@ ros2 run turtlesim turtle_teleop_key)
 - This confirms that ROS2 Humble and Turtlesim are installed and working correctly.
    
 ## Screenshot
-![Turtlesim Screenshot](screenshot.png)
+![Turtlesim Screenshot](https://github.com/Tloww/ros/blob/main/Screenshot%20at%202025-10-18%2023-12-36.png)
 
 
